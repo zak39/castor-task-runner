@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jolicode/castor": "^0.17.1"
+    }
+}
